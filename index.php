@@ -17,5 +17,5 @@ define('WP_USE_THEMES', true);
 require( dirname( __FILE__ ) . '/wp-blog-header.php' );
 
 // Paul is adding this asd asd asd
-// Dagdag ni Allen 
-// Dagdag ni Googliness
+// Dagdag ni Allen Masterpogi :D
+// Dagdag ni Googliness boogy
