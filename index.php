@@ -17,4 +17,4 @@ define('WP_USE_THEMES', true);
 require( dirname( __FILE__ ) . '/wp-blog-header.php' );
 
 // Dagdag ni Allen Masterpogi :D
-// Dagdag ni Googliness
+// Dagdag ni Googliness boogy
